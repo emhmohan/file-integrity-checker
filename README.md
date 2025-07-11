@@ -1,5 +1,18 @@
 # 🔒 File Integrity Checker
 
+*COMPANY NAME*: CODTECH IT SOLUTIONS 
+
+*NAME": MOHAN HARISH E
+
+*INTERN ID*: CT04DH2589
+
+*DOMAIN*:CYBER SECURITY AND ETHICAL HACKING 
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR 
+
+
 This Python script helps verify whether a file has been tampered with or remains intact using cryptographic hash functions like SHA256.
 
 ## 💡 How It Works
